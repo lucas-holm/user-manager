@@ -6,7 +6,7 @@ namespace user_manager
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Users!");
         }
     }
 }
